@@ -1295,17 +1295,4 @@ return 0x2a9Cb2828DAF15ad941B961DF3461DBa5C29fcF5;
 // Rocket Pool (RPL)
 // Token contract has migrated to 0xD33526068D116cE69F19A9ee46F0bd304F21A51f
 // 0xb4efd85c19999d84251304bda99e90b92300bd93
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
